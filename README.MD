@@ -1,7 +1,7 @@
 # Shoply Beauty & Cosmetics – Shoply
 
 
-![Shofy Image Banner](https://i.ibb.co/yBHL1wj/beauty-cosmetics.png)
+![Shofy Image Banner](https://www.facebook.com/photo.php?fbid=927571119327739&set=a.105850631499796&type=3&mibextid=rS40aB7S9Ucbxw6vh) 
 
 Shoply is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
